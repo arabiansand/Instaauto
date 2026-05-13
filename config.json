@@ -1,0 +1,27 @@
+{
+  "accounts": [
+    {
+      "username": "account1",
+      "password": "password1",
+      "proxy": "socks5://127.0.0.1:9050"
+    }
+  ],
+  "limits": {
+    "likes_per_day": 120,
+    "comments_per_day": 40,
+    "follows_per_day": 40,
+    "unfollows_per_day": 40
+  },
+  "delays": {
+    "min_seconds": 12,
+    "max_seconds": 45
+  },
+  "hashtags": [
+    "ai",
+    "startup",
+    "tech"
+  ],
+  "competitors": [
+    "example_account"
+  ]
+}
