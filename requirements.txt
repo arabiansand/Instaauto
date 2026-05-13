@@ -1,0 +1,10 @@
+instagrapi==2.1.5
+playwright==1.52.0
+faker==37.1.0
+python-dotenv==1.1.0
+rich==14.0.0
+pydantic==2.11.4
+APScheduler==3.11.0
+requests==2.32.3
+PySocks==1.7.1
+redis==6.0.0
